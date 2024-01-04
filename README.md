@@ -35,7 +35,7 @@ This analysis provides a clear picture of employee sentiment in the Public Works
 - Recommendations for implementing social events and enhancing public recognition.
 
 ## Chart Source:
-![image](
+![image](https://github.com/anmolvir-kaur/HRSurveyAnalysis/blob/main/likert%20scales.png)
 ![image](https://github.com/anmolvir-kaur/HRSurveyAnalysis/blob/main/stacked%20bar%20chart.jpg)
 
 
