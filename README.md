@@ -26,7 +26,6 @@ The visualization revealed:
 - Recommended strategies, such as organizing social or corporate networking events to enhance workplace relationships.
 - Recognized the desire for more public recognition, proposing initiatives to showcase and reinforce outstanding work within the team.
 
-## Conclusion: 
 This analysis provides a clear picture of employee sentiment in the Public Works department, offering insights to improve job satisfaction and engagement.
 
 ## Key Takeaways: 
