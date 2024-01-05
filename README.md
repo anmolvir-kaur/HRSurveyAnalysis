@@ -4,16 +4,16 @@
 Seattle recently surveyed ~1,500 public works employees to measure job satisfaction and identify opportunities to keep staff motivated and engaged. In response, this project was initiated to analyze survey response data from approximately 1,500 city employees in Washington State. The objective is to gauge job satisfaction, identify areas of improvement, and propose strategies to enhance employee motivation and engagement.
 
 ## Objectives: 
-1. Data Exploration and Quality Assurance
+1. **Data Exploration and Quality Assurance**
 - Calculated basic profiling metrics.
 - Removed blank and duplicate records.
 - Standardized inconsistent text fields.
 
-2. Data Preparation for Visualization
+2. **Data Preparation for Visualization**
 - Calculated response frequencies and proportions for each of the 10 survey questions.
 - Produced clean source data for effective visualization.
 
-3. Data Visualization and Analysis
+3. **Data Visualization and Analysis**
 - Utilized stacked bar charts and Likert scales for visual representation.
 - Identified areas of strength and opportunities for improvement.
 
